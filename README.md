@@ -11,6 +11,9 @@ January 1, 2019 – March 12, 2019
 **Tools Used:**  
 - **Power BI** for data cleaning, visualization, and dashboard creation
 
+**Dashboard Link:**  
+[Supermarket Sales Analytics Dashboard](https://app.powerbi.com/links/JqifsKn13R?ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0&pbi_source=linkShare)
+
 ## Key Metrics
 
 1. **Average Quantity Sold by Payment Method:**
