@@ -83,3 +83,6 @@ These categories have high sales volumes, justifying their higher costs, which s
 - Focus on promoting high-demand product lines like Home and Lifestyle and Food and Beverages.
 - Enhance loyalty programs to retain members and increase their lifetime value.
 - Expand operations in profitable locations like Yangon and prioritize Branch C for future growth.
+
+## About the Developer
+This project was developed by **Anubhav Kumar Tiwary**. If you have any questions or suggestions, feel free to reach out.
